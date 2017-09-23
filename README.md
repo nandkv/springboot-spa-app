@@ -25,7 +25,3 @@ Running the generated client separately for auto-reload involves:
     1. ```npm install```
     2. ```bower install```
     3. ```gulp serve```
-
-
-
-#This is fork from Jonathan's repo. 
